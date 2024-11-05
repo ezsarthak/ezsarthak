@@ -27,5 +27,17 @@
 </div>
 </details>
 
+<details>	
+ <summary><b>Hacktoberfest(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://www.holopin.io/@ezsarthak#badges">
+   <img src="https://github.com/ezsarthak/ezsarthak/blob/main/hacktoberfest/registered.png" width="136px" height="136px" />
+<img src="https://github.com/ezsarthak/ezsarthak/blob/main/hacktoberfest/lvl1.png" width="136px" height="136px" />
+  <img src="https://github.com/ezsarthak/ezsarthak/blob/main/hacktoberfest/lvl2.png" width="136px" height="136px" />
+  <img src="https://github.com/ezsarthak/ezsarthak/blob/main/hacktoberfest/lvl3.png" width="136px" height="136px" />
+  <img src="https://github.com/ezsarthak/ezsarthak/blob/main/hacktoberfest/lvl4.png" width="136px" height="136px" />
+</a>
+</div>
+</details>
+
 
 [![](https://visitcount.itsvg.in/api?id=ezsarthak&icon=0&color=2)](https://visitcount.itsvg.in)
