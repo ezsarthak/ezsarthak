@@ -1,7 +1,7 @@
 ## Hello there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=100&color=ADD8E6&vCenter=true&width=1500&height=150&lines=Flutter+Dev;Web+Dev;Open+Source;Problem+Solving)
 💫 About Me:
-🧭 Tech Explorer<br>🔭 I’m a student in IIIT Bhopal '28 , Information Technology<br>🌱 I’m currently upscaling in Flutter<br>💬 Ask me about Flutter and CPP<br>😄 I know basic CPP language & Development in Flutter and Javascript.<br>⚡️ I also have basic knowledge of Figma and UI prototypes<br>⚡️ I also have basic knowledge in C programming<br>⚡️ I know Firebase and Express.js <br>⚡️ I have also started learning DSA.
+🧭 Tech Explorer<br>🔭 I’m a student in IIIT Bhopal '28 , Information Technology<br>🌱 I’m currently upscaling in Flutter<br>💬 Ask me about Flutter and CPP<br>😄 I know CPP language & Development in Flutter and Javascript.<br>⚡️ I also have knowledge of Figma and UI prototypes<br>⚡️ I know Firebase and Express.js <br>⚡️ I have also started learning DSA.
 
 
 ## 🌐 Socials:
